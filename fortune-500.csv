@@ -1,0 +1,501 @@
+Rank,Company,Industry,City,State,Number of Employees,Revenue (millions),Valuation (millions),Profits (millions),Profits (% of Sales),Ticker,CEO
+1,Walmart,General Merchandisers,Bentonville,Arkansas,"2,100,000","$611,289","$397,475","$11,680",1.9,WMT,Douglas McMillon
+2,Amazon.com,Internet Services and Retailing,Seattle,Washington,"1,541,000","$513,983","$1,058,440","-$2,722",-0.5,AMZN,Andrew R. Jassy
+3,Exxon Mobil,Petroleum Refining,Irving,Texas,"62,000","$413,680","$446,424","$55,740",13.5,XOM,Darren W. Woods
+4,Apple,"Computers, Office Equipment",Cupertino,California,"164,000","$394,328","$2,609,039","$99,803",25.3,AAPL,Timothy D. Cook
+5,UnitedHealth Group,Health Care: Insurance and Managed Care,Minnetonka,Minnesota,"400,000","$324,162","$440,854","$20,120",6.2,UNH,Andrew P. Witty
+6,CVS Health,Health Care: Pharmacy and Other Services,Woonsocket,Rhose Island,"259,500","$322,467","$95,422","$4,149",1.3,CVS,Karen S. Lynch
+7,Berkshire Hathaway,Insurance: Property and Casualty (Stock),Omaha,Nebraska,"383,000","$302,089","$675,657","-$22,819",-7.6,BRKA,Warren E. Buffett
+8,Alphabet,Internet Services and Retailing,Mountain View,California,"190,234","$282,836","$1,330,201","$59,972",21.2,GOOGL,Sundar Pichai
+9,McKesson,Wholesalers: Health Care,Irving,Texas,"66,500","$263,966","$48,757","$1,114",0.4,MCK,Brian S. Tyler
+10,Chevron,Petroleum Refining,San Ramon,California,"43,846","$246,252","$311,093","$35,465",14.4,CVX,Michael K. Wirth
+11,AmerisourceBergen,Wholesalers: Health Care,Conshohocken,Pennsylvania,"41,500","$238,587","$32,384","$1,699",0.7,ABC,Steven H. Collis
+12,Costco Wholesale,General Merchandisers,Issaquah,Washington,"304,000","$226,954","$220,354","$5,844",2.6,COST,Craig Jelinek
+13,Microsoft,Computer Software,Redmond,Washington,"221,000","$198,270","$2,146,049","$72,738",36.7,MSFT,Satya Nadella
+14,Cardinal Health,Wholesalers: Health Care,Dublin,Ohio,"46,035","$181,364","$19,452",-$933,-0.5,CAH,Jason Hollar
+15,Cigna Group,Health Care: Pharmacy and Other Services,Bloomfield,Connecticut,"70,231","$180,516","$75,901","$6,668",3.7,CI,David M. Cordani
+16,Marathon Petroleum,Petroleum Refining,Findlay,Ohio,"17,800","$180,012","$59,544","$14,516",8.1,MPC,Michael J. Hennigan
+17,Phillips 66,Petroleum Refining,Houston,Texas,"13,000","$175,702","$46,727","$11,024",6.3,PSX,Mark Lashier
+18,Valero Energy,Petroleum Refining,San Antonio,Texas,"9,743","$171,189","$51,351","$11,528",6.7,VLO,Joseph W. Gorder
+19,Ford Motor,Motor Vehicles & Parts,Dearborn,Michigan,"173,000","$158,057","$50,400","-$1,981",-1.3,F,Jim Farley
+20,Home Depot,Specialty Retailers: Other,Atlanta,Georgia,"471,600","$157,403","$299,534","$17,105",10.9,HD,Ted Decker
+21,General Motors,Motor Vehicles & Parts,Detroit,Michigan,"167,000","$156,735","$51,155","$9,934",6.3,GM,Mary T. Barra
+22,Elevance Health,Health Care: Insurance and Managed Care,Indianapolis,Indiana,"102,300","$156,595","$109,098","$6,025",3.8,ELV,Gail K. Boudreaux
+23,JPMorgan Chase,Commercial Banks,New York,New York,"293,723","$154,792","$383,549","$37,676",24.3,JPM,Jamie Dimon
+24,Kroger,Food and Drug Stores,Cincinnati,Ohio,"430,000","$148,258","$35,421","$2,244",1.5,KR,Rodney Mcmullen
+25,Centene,Health Care: Insurance and Managed Care,St. Louis,Missouri,"74,300","$144,547","$34,810","$1,202",0.8,CNC,Sarah M. London
+26,Verizon Communications,Telecommunications,New York,New York,"117,100","$136,835","$163,333","$21,256",15.5,VZ,Hans E. Vestberg
+27,Walgreens Boots Alliance,Food and Drug Stores,Deerfield,Illinois,"262,500","$132,703","$29,836","$4,337",3.3,WBA,Roz Brewer
+28,Fannie Mae,Diversified Financials,Washington,District of Columbia,"8,000","$121,596",$475,"$12,923",10.6,FNMA,Priscilla Almodovar
+29,Comcast,Telecommunications,Philadelphia,Pennsylvania,"186,000","$121,427","$159,831","$5,370",4.4,CMCSA,Brian L. Roberts
+30,AT&T,Telecommunications,Dallas,Texas,"160,700","$120,741","$137,250","-$8,524",-7.1,T,John T. Stankey
+31,Meta Platforms,Internet Services and Retailing,Menlo Park,California,"86,482","$116,609","$549,484","$23,200",19.9,META,Mark Zuckerberg
+32,Bank of America,Commercial Banks,Charlotte,North Carolina,"216,823","$115,053","$228,780","$27,528",23.9,BAC,
+33,Target,General Merchandisers,Minneapolis,Minnesota,"440,000","$109,120","$76,250","$2,780",2.5,TGT,Brian C. Cornell
+34,Dell Technologies,"Computers, Office Equipment",Round Rock,Texas,"133,000","$102,301","$29,402","$2,442",2.4,DELL,Michael S. Dell
+35,Archer Daniels Midland,Food Production,Chicago,Illinois,"41,181","$101,556","$43,530","$4,340",4.3,ADM,Juan R. Luciano
+36,Citigroup,Commercial Banks,New York,New York,"238,104","$101,078","$91,270","$14,845",14.7,C,Jane Fraser
+37,United Parcel Service,"Mail, Package and Freight Delivery",Atlanta,Georgia,"404,700","$100,338","$166,189","$11,548",11.5,UPS,Carol B. Tome
+38,Pfizer,Pharmaceuticals,New York,New York,"83,000","$100,330","$230,292","$31,372",31.3,PFE,Albert Bourla
+39,Lowe's,Specialty Retailers: Other,Mooresville,North Carolina,"244,500","$97,059","$119,253","$6,437",6.6,LOW,Marvin R. Ellison
+40,Johnson & Johnson,Pharmaceuticals,New Brunswick,New Jersey,"152,700","$94,943","$483,576","$17,941",18.9,JNJ,
+41,FedEx,"Mail, Package and Freight Delivery",Memphis,Tennessee,"464,400","$93,512","$57,431","$3,826",4.1,FDX,Raj Subramaniam
+42,Humana,Health Care: Insurance and Managed Care,Louisville,Kentucky,"67,100","$92,870","$60,719","$2,806",3,HUM,Bruce D. Broussard
+43,Energy Transfer,Pipelines,Dallas,Texas,"12,565","$89,876","$38,590","$4,756",5.3,ET,Thomas E. Long
+44,State Farm Insurance,Insurance: Property and Casualty (Mutual),Bloomington,Illinois,"60,519","$89,328",,"-$6,654",-7.4,,Michael L. Tipsord
+45,Freddie Mac,Diversified Financials,McLean,Virginia,"7,819","$86,717",$266,"$9,327",10.8,FMCC,Michael Devito
+46,PepsiCo,Food Consumer Products,Purchase,New York,"315,000","$86,392","$251,085","$8,910",10.3,PEP,Ramon L. Laguarta
+47,Wells Fargo,Commercial Banks,San Francisco,California,"238,000","$82,859","$141,188","$13,182",15.9,WFC,Charles W. Scharf
+48,Walt Disney,Entertainment,Burbank,California,"195,800","$82,722","$182,920","$3,145",3.8,DIS,Robert A. Chapek
+49,ConocoPhillips,"Mining, Crude-Oil Production",Houston,Texas,"9,500","$82,156","$120,777","$18,680",22.7,COP,Ryan M. Lance
+50,Tesla,Motor Vehicles & Parts,Austin,Texas,"127,855","$81,462","$656,425","$12,556",15.4,TSLA,
+51,Procter & Gamble,Household and Personal Products,Cincinnati,Ohio,"106,000","$80,187","$350,781","$14,742",18.4,PG,Jon R. Moeller
+52,General Electric,Industrial Machinery,Boston,Massachusetts,"172,000","$76,555","$104,231",$225,0.3,GE,Lawrence Culp
+53,Albertsons,Food and Drug Stores,Boise,Idaho,"195,750","$71,887","$11,132","$1,620",2.3,ACI,Vivek Sankaran
+54,MetLife,"Insurance: Life, Health (Stock)",New York,New York,"45,000","$69,898","$44,867","$2,539",3.6,MET,Michel A. Khalaf
+55,Goldman Sachs Group,Commercial Banks,New York,New York,"48,500","$68,711","$113,964","$11,261",16.4,GS,David M. Solomon
+56,Sysco,Wholesalers: Food and Grocery,Houston,Texas,"70,510","$68,636","$39,202","$1,359",2,SYY,Kevin P. Hourican
+57,Raytheon Technologies,Aerospace & Defense,Arlington,Virginia,"182,000","$67,074","$143,292","$5,197",7.7,RTX,Gregory J. Hayes
+58,Boeing,Aerospace & Defense,Arlington,Virginia,"156,000","$66,608","$127,283","-$4,935",-7.4,BA,David L. Calhoun
+59,StoneX Group,Diversified Financials,New York,New York,"3,615","$66,036","$2,138",$207,0.3,SNEX,Sean M. O'Connor
+60,Lockheed Martin,Aerospace & Defense,Bethesda,Maryland,"116,000","$65,984","$120,319","$5,732",8.7,LMT,Jim Taiclet
+61,Morgan Stanley,Commercial Banks,New York,New York,"82,427","$65,936","$147,674","$11,029",16.7,MS,James P. Gorman
+62,Intel,Semiconductors and Other Electronic Components,Santa Clara,California,"131,900","$63,054","$136,268","$8,014",12.7,INTC,Patrick P. Gelsinger
+63,HP,"Computers, Office Equipment",Palo Alto,California,"58,000","$62,983","$28,919","$3,203",5.1,HPQ,Enrique J. Lores
+64,TD Synnex,Wholesalers: Electronics and Office Equipment,Fremont,California,"28,500","$62,344","$9,061",$651,1,SNX,Richard T. Hume
+65,International Business Machines,Information Technology Services,Armonk,New York,"303,100","$60,530","$118,913","$1,639",2.7,IBM,Arvind Krishna
+66,HCA Healthcare,Health Care: Medical Facilities,Nashville,Tennessee,"250,500","$60,233","$73,107","$5,643",9.4,HCA,Samuel N. Hazen
+67,Prudential Financial,"Insurance: Life, Health (Stock)",Newark,New Jersey,"39,583","$60,050","$30,363","-$1,438",-2.4,PRU,Charles F. Lowrey
+68,Caterpillar,Construction and Farm Machinery,Irving,Texas,"109,100","$59,427","$118,161","$6,705",11.3,CAT,Jim Umpleby
+69,Merck,Pharmaceuticals,Rahway,New Jersey,"68,000","$59,283","$270,081","$14,519",24.5,MRK,
+70,World Fuel Services,Energy,Miami,Florida,"5,214","$59,043","$1,585",$114,0.2,INT,Michael J. Kasbar
+71,New York Life Insurance,"Insurance: Life, Health (Mutual)",New York,New York,"15,050","$58,445",,"-$1,127",-1.9,,Craig Desanto
+72,Enterprise Products Partners,Pipelines,Houston,Texas,"7,300","$58,186","$56,224","$5,490",9.4,EPD,James Teague
+73,AbbVie,Pharmaceuticals,North Chicago,Illinois,"50,000","$58,054","$281,151","$11,836",20.4,ABBV,Richard A. Gonzalez
+74,Plains GP Holdings,Pipelines,Houston,Texas,"4,100","$57,342","$2,551",$168,0.3,PAGP,Willie Chiang
+75,Dow,Chemicals,Midland,Michigan,"37,800","$56,902","$38,812","$4,582",8.1,DOW,James R. Fitterling
+76,American International Group,Insurance: Property and Casualty (Stock),New York,New York,"26,200","$56,437","$36,948","$10,276",18.2,AIG,Peter S. Zaffino
+77,American Express,Diversified Financials,New York,New York,"77,300","$55,625","$122,734","$7,514",13.5,AXP,
+78,Publix Super Markets,Food and Drug Stores,Lakeland,Florida,"242,000","$54,942",,"$2,918",5.3,,Todd Jones
+79,Charter Communications,Telecommunications,Stamford,Connecticut,"101,700","$54,022","$60,477","$5,055",9.4,CHTR,Christopher Winfrey
+80,Tyson Foods,Food Production,Springdale,Arkansas,"142,000","$53,282","$21,096","$3,238",6.1,TSN,Donnie D. King
+81,Deere,Construction and Farm Machinery,Moline,Illinois,"82,239","$52,577","$122,346","$7,131",13.6,DE,John C. May
+82,Cisco Systems,Network and Other Communications Equipment,San Jose,California,"83,300","$51,557","$214,109","$11,812",22.9,CSCO,Chuck Robbins
+83,Nationwide,Insurance: Property and Casualty (Mutual),Columbus,Ohio,"24,791","$51,450",,$988,1.9,,Kirt A. Walker
+84,Allstate,Insurance: Property and Casualty (Stock),Northbrook,Illinois,"54,250","$51,412","$29,180","-$1,311",-2.6,ALL,Tom Wilson
+85,Delta Air Lines,Airlines,Atlanta,Georgia,"95,000","$50,582","$22,392","$1,318",2.6,DAL,Ed Bastian
+86,Liberty Mutual Insurance Group,Insurance: Property and Casualty (Stock),Boston,Massachusetts,"50,000","$49,956",,$414,0.8,,Timothy Sweeney
+87,TJX,Specialty Retailers: Apparel,Framingham,Massachusetts,"329,000","$49,936","$90,315","$3,498",7,TJX,Ernie L. Herrman
+88,Progressive,Insurance: Property and Casualty (Stock),Mayfield Village,Ohio,"55,063","$49,611","$83,743",$722,1.5,PGR,Tricia Griffith
+89,American Airlines Group,Airlines,Fort Worth,Texas,"129,700","$48,971","$9,629",$127,0.3,AAL,Robert D. Isom
+90,CHS,Food Production,Inver Grove Heights,Minnesota,"10,014","$47,792",,"$1,679",3.5,,Jay D. Debertin
+91,Performance Food Group,Wholesalers: Food and Grocery,Richmond,Virginia,"34,825","$47,194","$9,422",$113,0.2,PFGC,George L. Holm
+92,PBF Energy,Petroleum Refining,Parsippany,New Jersey,"3,616","$46,830","$5,589","$2,877",6.1,PBF,Thomas J. Nimbley
+93,Nike,Apparel,Beaverton,Oregon,"79,100","$46,710","$190,161","$6,046",12.9,NKE,John Donahoe
+94,Best Buy,Specialty Retailers: Other,Richfield,Minnesota,"71,100","$46,298","$17,066","$1,419",3.1,BBY,Corie S. Barry
+95,Bristol-Myers Squibb,Pharmaceuticals,New York,New York,"34,300","$46,159","$145,780","$6,327",13.7,BMY,Giovanni Caforio
+96,United Airlines Holdings,Airlines,Chicago,Illinois,"92,795","$44,955","$14,474",$737,1.6,UAL,Scott Kirby
+97,Thermo Fisher Scientific,"Scientific, Photographic and Control Equipment",Waltham,Massachusetts,"130,000","$44,915","$222,150","$6,950",15.5,TMO,Marc N. Casper
+98,Qualcomm,Semiconductors and Other Electronic Components,San Diego,California,"51,000","$44,200","$142,252","$12,936",29.3,QCOM,
+99,Abbott Laboratories,Medical Products and Equipment,Abbott Park,Illinois,"115,000","$43,653","$175,984","$6,933",15.9,ABT,Robert B. Ford
+100,Coca-Cola,Beverages,Atlanta,Georgia,"82,500","$43,004","$268,361","$9,542",22.2,KO,James R. Quincey
+101,Oracle,Computer Software,Austin,Texas,"143,000","$42,440","$250,866","$6,717",15.8,ORCL,Safra A. Catz
+102,Nucor,Metals,Charlotte,North Carolina,"31,400","$41,513","$38,917","$7,607",18.3,NUE,Leon J. Topalian
+103,TIAA,"Insurance: Life, Health (Mutual)",New York,New York,"16,070","$40,911",,$494,1.2,,
+104,Massachusetts Mutual Life Insurance,"Insurance: Life, Health (Mutual)",Springfield,Massachusetts,"10,662","$40,281",,"$1,485",3.7,,Roger W. Crandall
+105,General Dynamics,Aerospace & Defense,Reston,Virginia,"106,500","$39,407","$62,692","$3,390",8.6,GD,Phebe N. Novakovic
+106,Capital One Financial,Commercial Banks,McLean,Virginia,"55,943","$38,373","$36,776","$7,360",19.2,COF,Richard D. Fairbank
+107,HF Sinclair,Petroleum Refining,Dallas,Texas,"5,223","$38,205","$9,492","$2,923",7.7,DINO,Tim Go
+108,Dollar General,Specialty Retailers: Other,Goodlettsville,Tennessee,"170,000","$37,845","$46,114","$2,416",6.4,DG,Jeffery Owen
+109,Arrow Electronics,Wholesalers: Electronics and Office Equipment,Centennial,Colorado,"22,300","$37,124","$7,278","$1,427",3.8,ARW,Sean J. Kerins
+110,Occidental Petroleum,"Mining, Crude-Oil Production",Houston,Texas,"11,973","$37,095","$56,069","$13,304",35.9,OXY,Vicki Hollub
+111,Northwestern Mutual,"Insurance: Life, Health (Mutual)",Milwaukee,Wisconsin,"8,323","$36,921",,$912,2.5,,John Schlifske
+112,Travelers,Insurance: Property and Casualty (Stock),New York,New York,"32,175","$36,884","$39,783","$2,842",7.7,TRV,Alan Schnitzer
+113,Northrop Grumman,Aerospace & Defense,Falls Church,Virginia,"95,000","$36,602","$70,203","$4,896",13.4,NOC,Kathy Warden
+114,United Services Automobile Assn.,Insurance: Property and Casualty (Stock),San Antonio,Texas,"36,820","$36,297",,"-$1,296",-3.6,,Wayne Peacock
+115,Honeywell International,"Electronics, Electrical Equip.",Charlotte,North Carolina,"97,000","$35,466","$127,695","$4,966",14,HON,Vimal Kapur
+116,3M,Chemicals,St. Paul,Minnesota,"92,000","$34,229","$57,965","$5,777",16.9,MMM,Michael F. Roman
+117,US Foods Holding,Wholesalers: Food and Grocery,Rosemont,Illinois,"29,000","$34,057","$8,568",$265,0.8,USFD,David Flitman
+118,Warner Bros. Discovery,Entertainment,New York,New York,"37,500","$33,817","$36,778","-$7,371",-21.8,WBD,David M. Zaslav
+119,Lennar,Homebuilders,Miami,Florida,"12,012","$33,671","$29,726","$4,614",13.7,LEN,Jonathan M. Jaffe
+120,D.R. Horton,Homebuilders,Arlington,Texas,"13,237","$33,480","$33,546","$5,858",17.5,DHI,David V. Auld
+121,Jabil,Semiconductors and Other Electronic Components,St. Petersburg,Florida,"250,000","$33,478","$11,750",$996,3,JBL,Mark T. Mondello
+122,Cheniere Energy,Pipelines,Houston,Texas,"1,551","$33,428","$38,408","$1,428",4.3,LNG,Jack A. Fusco
+123,Broadcom,Semiconductors and Other Electronic Components,San Jose,California,"20,000","$33,203","$267,473","$11,495",34.6,AVGO,Hock E. Tan
+124,CarMax,"Automotive Retailing, Services",Richmond,Virginia,"32,647","$33,197","$10,158","$1,151",3.5,KMX,William D. Nash
+125,Starbucks,Food Services,Seattle,Washington,"402,000","$32,250","$119,677","$3,282",10.2,SBUX,Laxman Narasimhan
+126,Molina Healthcare,Health Care: Insurance and Managed Care,Long Beach,California,"15,000","$31,974","$15,586",$792,2.5,MOH,Joseph M. Zubretsky
+127,Uber Technologies,Internet Services and Retailing,San Francisco,California,"32,800","$31,877","$63,840","-$9,141",-28.7,UBER,Dara Khosrowshahi
+128,Philip Morris International,Tobacco,Stamford,Connecticut,"79,800","$31,762","$150,946","$9,048",28.5,PM,Jacek Olczak
+129,Netflix,Entertainment,Los Gatos,California,"12,800","$31,616","$153,858","$4,492",14.2,NFLX,Ted Sarandos
+130,NRG Energy,Energy,Houston,Texas,"6,603","$31,543","$7,965","$1,221",3.9,NRG,Mauricio Gutierrez
+131,Mondelez International,Food Consumer Products,Chicago,Illinois,"91,000","$31,496","$95,050","$2,717",8.6,MDLZ,Dirk Van De Put
+132,Danaher,Medical Products and Equipment,Washington,District of Columbia,"80,000","$31,471","$183,764","$7,209",22.9,DHR,Rainer M. Blair
+133,Salesforce,Computer Software,San Francisco,California,"79,390","$31,352","$199,780",$208,0.7,CRM,Marc R. Benioff
+134,Paramount Global,Entertainment,New York,New York,"27,400","$31,331","$14,657","$1,104",3.5,PARA,Robert M. Bakish
+135,CBRE Group,Real Estate,Dallas,Texas,"115,000","$30,828","$22,563","$1,407",4.6,CBRE,
+136,Micron Technology,Semiconductors and Other Electronic Components,Boise,Idaho,"48,000","$30,758","$66,036","$8,687",28.2,MU,Sanjay Mehrotra
+137,Visa,Financial Data Services,San Francisco,California,"26,500","$29,310","$475,307","$14,957",51,V,Ryan Mcinerney
+138,Southern,Utilities: Gas and Electric,Atlanta,Georgia,"27,562","$29,279","$75,948","$3,524",12,SO,Christopher C. Womack
+139,United Natural Foods,Wholesalers: Food and Grocery,Providence,Rhose Island,"30,300","$28,928","$1,565",$248,0.9,UNFI,Sandy Douglas
+140,Paccar,Motor Vehicles & Parts,Bellevue,Washington,"31,100","$28,820","$38,251","$3,012",10.4,PCAR,Preston Feight
+141,Duke Energy,Utilities: Gas and Electric,Charlotte,North Carolina,"27,859","$28,784","$74,344","$2,550",8.9,DUK,Lynn J. Good
+142,Eli Lilly,Pharmaceuticals,Indianapolis,Indiana,"39,000","$28,541","$326,351","$6,245",21.9,LLY,David A. Ricks
+143,Hewlett Packard Enterprise,"Computers, Office Equipment",Spring,Texas,"60,200","$28,496","$20,643",$868,3,HPE,Antonio F. Neri
+144,Dollar Tree,Specialty Retailers: Other,Chesapeake,Virginia,"136,287","$28,332","$31,757","$1,615",5.7,DLTR,Rick Dreiling
+145,Lithia Motors,"Automotive Retailing, Services",Medford,Oregon,"21,875","$28,188","$6,337","$1,251",4.4,LAD,Bryan B. Deboer
+146,Cummins,Industrial Machinery,Columbus,Indiana,"73,600","$28,074","$33,811","$2,151",7.7,CMI,Jennifer Rumsey
+147,Penske Automotive Group,"Automotive Retailing, Services",Bloomfield Hills,Michigan,"26,816","$27,815","$9,795","$1,380",5,PAG,Roger S. Penske
+148,PayPal Holdings,Financial Data Services,San Jose,California,"29,900","$27,518","$85,917","$2,419",8.8,PYPL,Daniel H. Schulman
+149,U.S. Bancorp,Commercial Banks,Minneapolis,Minnesota,"76,646","$27,401","$55,221","$5,825",21.3,USB,Andrew J. Cecere
+150,Gilead Sciences,Pharmaceuticals,Foster City,California,"17,000","$27,281","$103,614","$4,592",16.8,GILD,Daniel P. O'Day
+151,AutoNation,"Automotive Retailing, Services",Fort Lauderdale,Florida,"23,600","$26,985","$6,301","$1,377",5.1,AN,Michael Manley
+152,Nvidia,Semiconductors and Other Electronic Components,Santa Clara,California,"26,196","$26,974","$686,092","$4,368",16.2,NVDA,Jen-Hsun Huang
+153,Kraft Heinz,Food Consumer Products,Chicago,Illinois,"37,000","$26,485","$47,448","$2,363",8.9,KHC,Miguel Patricio
+154,Amgen,Pharmaceuticals,Thousand Oaks,California,"25,200","$26,323","$129,089","$6,552",24.9,AMGN,Robert A. Bradway
+155,Applied Materials,Semiconductors and Other Electronic Components,Santa Clara,California,"33,000","$25,785","$103,806","$6,525",25.3,AMAT,Gary E. Dickerson
+156,EOG Resources,"Mining, Crude-Oil Production",Houston,Texas,"2,850","$25,702","$67,371","$7,759",30.2,EOG,Ezra Yacob
+157,Truist Financial,Commercial Banks,Charlotte,North Carolina,"53,987","$25,356","$45,290","$6,260",24.7,TFC,William H. Rogers Jr.
+158,Macy's,General Merchandisers,New York,New York,"94,570","$25,305","$4,747","$1,177",4.7,M,Jeffrey Gennette
+159,Union Pacific,Railroads,Omaha,Nebraska,"33,179","$24,875","$123,146","$6,998",28.1,UNP,Lance M. Fritz
+160,C.H. Robinson Worldwide,Transportation and Logistics,Eden Prairie,Minnesota,"17,399","$24,697","$11,417",$941,3.8,CHRW,Scott Anderson
+161,Rite Aid,Food and Drug Stores,Philadelphia,Pennsylvania,"53,000","$24,568",$127,-$539,-2.2,RAD,
+162,Constellation Energy,Energy,Baltimore,Maryland,"13,370","$24,440","$25,712",-$160,-0.7,CEG,Joseph Dominguez
+163,Avnet,Wholesalers: Electronics and Office Equipment,Phoenix,Arizona,"15,300","$24,311","$4,130",$692,2.8,AVT,Philip R. Gallagher
+164,Pioneer Natural Resources,"Mining, Crude-Oil Production",Irving,Texas,"2,076","$24,294","$47,997","$7,845",32.3,PXD,Scott D. Sheffield
+165,Southwest Airlines,Airlines,Dallas,Texas,"66,656","$23,814","$19,338",$539,2.3,LUV,Robert E. Jordan
+166,CDW,Information Technology Services,Lincolnshire,Illinois,"15,100","$23,749","$26,337","$1,115",4.7,CDW,Christine A. Leahy
+167,Advanced Micro Devices,Semiconductors and Other Electronic Components,Santa Clara,California,"25,000","$23,601","$157,738","$1,320",5.6,AMD,Lisa T. Su
+168,PNC Financial Services Group,Commercial Banks,Pittsburgh,Pennsylvania,"60,720","$23,542","$50,800","$6,041",25.7,PNC,William S. Demchak
+169,McDonald's,Food Services,Chicago,Illinois,"150,000","$23,183","$204,534","$6,177",26.6,MCD,Christopher J. Kempczinski
+170,Cleveland-Cliffs,Metals,Cleveland,Ohio,"27,000","$22,989","$9,436","$1,335",5.8,CLF,Lourenco Goncalves
+171,Freeport-McMoRan,"Mining, Crude-Oil Production",Phoenix,Arizona,"25,600","$22,780","$58,530","$3,468",15.2,FCX,Richard C. Adkerson
+172,Builders FirstSource,"Building Materials, Glass",Dallas,Texas,"29,000","$22,726","$12,253","$2,749",12.1,BLDR,Dave Rush
+173,Oneok,Pipelines,Tulsa,Oklahoma,"2,966","$22,387","$28,416","$1,722",7.7,OKE,Pierce Norton
+174,Hartford Financial Services Group,Insurance: Property and Casualty (Stock),Hartford,Connecticut,"18,800","$22,362","$21,817","$1,815",8.1,HIG,Christopher J. Swift
+175,Charles Schwab,Securities,Westlake,Texas,"35,300","$22,307","$95,264","$7,183",32.2,SCHW,Walter W. Bettinger
+176,Steel Dynamics,Metals,Fort Wayne,Indiana,"12,060","$22,261","$19,286","$3,863",17.4,STLD,Mark D. Millett
+177,Mastercard,Financial Data Services,Purchase,New York,"29,900","$22,237","$346,418","$9,930",44.7,MA,Michael Miebach
+178,Sherwin-Williams,Chemicals,Cleveland,Ohio,"64,366","$22,149","$58,090","$2,020",9.1,SHW,
+179,Genuine Parts,Wholesalers: Diversified,Atlanta,Georgia,"58,000","$22,096","$23,559","$1,183",5.4,GPC,Paul Donahue
+180,PG&E,Utilities: Gas and Electric,Oakland,California,"26,010","$21,680","$32,154","$1,800",8.3,PCG,
+181,WESCO International,Wholesalers: Diversified,Pittsburgh,Pennsylvania,"20,000","$21,420","$7,897",$861,4,WCC,John J. Engel
+182,Murphy USA,Specialty Retailers: Other,El Dorado,Arkansas,"10,550","$21,266","$5,621",$673,3.2,MUSA,Andrew Clyde
+183,WestRock,"Packaging, Containers",Atlanta,Georgia,"50,500","$21,257","$7,759",$945,4.4,WRK,David Sewell
+184,International Paper,"Packaging, Containers",Memphis,Tennessee,"39,000","$21,161","$12,598","$1,504",7.1,IP,Mark S. Sutton
+185,Baker Hughes,"Oil and Gas Equipment, Services",Houston,Texas,"55,000","$21,156","$29,386",-$601,-2.8,BKR,Lorenzo Simonelli
+186,United States Steel,Metals,Pittsburgh,Pennsylvania,"22,740","$21,065","$5,930","$2,524",12,X,David B. Burritt
+187,NextEra Energy,Utilities: Gas and Electric,Juno Beach,Florida,"15,300","$20,956","$153,196","$4,147",19.8,NEE,John W. Ketchum
+188,Targa Resources,Pipelines,Houston,Texas,"2,850","$20,930","$16,507","$1,196",5.7,TRGP,Matthew J. Meloy
+189,Lear,Motor Vehicles & Parts,Southfield,Michigan,"168,700","$20,892","$8,248",$328,1.6,LEA,Raymond E. Scott
+190,Jones Lang LaSalle,Real Estate,Chicago,Illinois,"103,300","$20,862","$6,926",$655,3.1,JLL,Christian Ulbrich
+191,Goodyear Tire & Rubber,Motor Vehicles & Parts,Akron,Ohio,"74,000","$20,805","$3,122",$202,1,GT,Richard J. Kramer
+192,Marriott International,"Hotels, Casinos, Resorts",Bethesda,Maryland,"140,000","$20,773","$51,287","$2,358",11.4,MAR,Anthony G. Capuano
+193,Marsh & McLennan,Diversified Financials,New York,New York,"85,000","$20,720","$82,371","$3,050",14.7,MMC,John Q. Doyle
+194,Altria Group,Tobacco,Richmond,Virginia,"6,300","$20,688","$79,672","$5,764",27.9,MO,Billy Gifford
+195,Coupang,Internet Services and Retailing,Seattle,Washington,"63,000","$20,583","$28,388",-$92,-0.4,CPNG,Bom Kim
+196,Carrier Global,Industrial Machinery,Palm Beach Gardens,Florida,"52,000","$20,421","$38,199","$3,534",17.3,CARR,David Gitlin
+197,Halliburton,"Oil and Gas Equipment, Services",Houston,Texas,"45,000","$20,297","$28,605","$1,572",7.7,HAL,Jeffrey A. Miller
+198,Delek US Holdings,Petroleum Refining,Brentwood,Tennessee,"3,746","$20,246","$1,538",$257,1.3,DK,Avigal Soreq
+199,Kimberly-Clark,Household and Personal Products,Irving,Texas,"44,000","$20,175","$45,293","$1,934",9.6,KMB,Mike Hsu
+200,Texas Instruments,Semiconductors and Other Electronic Components,Dallas,Texas,"33,000","$20,028","$168,775","$8,749",43.7,TXN,Haviv Ilan
+201,Bank of New York Mellon,Commercial Banks,New York,New York,"51,700","$19,991","$36,736","$2,573",12.9,BK,Robin Vince
+202,ManpowerGroup,Temporary Help,Milwaukee,Wisconsin,"30,900","$19,828","$4,191",$374,1.9,MAN,Jonas Prising
+203,Whirlpool,"Electronics, Electrical Equip.",Benton Harbor,Michigan,"61,000","$19,724","$7,197","-$1,519",-7.7,WHR,Marc R. Bitzer
+204,Waste Management,Waste Management,Houston,Texas,"49,500","$19,698","$66,372","$2,238",11.4,WM,James C. Fish Jr.
+205,American Electric Power,Utilities: Gas and Electric,Columbus,Ohio,"16,974","$19,640","$46,806","$2,307",11.7,AEP,Julie Sloat
+206,Emerson Electric,Industrial Machinery,St. Louis,Montana,"85,500","$19,629","$49,792","$3,231",16.5,EMR,Lal L. Karsanbhai
+207,Aflac,"Insurance: Life, Health (Stock)",Columbus,Georgia,"12,882","$19,502","$39,467","$4,201",21.5,AFL,Daniel P. Amos
+208,Cognizant Technology Solutions,Information Technology Services,Teaneck,New Jersey,"355,300","$19,428","$31,031","$2,290",11.8,CTSH,Ravi Kumar S
+209,Becton Dickinson,Medical Products and Equipment,Franklin Lakes,New Jersey,"77,000","$19,408","$70,277","$1,779",9.2,BDX,Tom Polen
+210,BJ's Wholesale Club,General Merchandisers,Marlborough,Massachusetts,"34,000","$19,315","$10,186",$513,2.7,BJ,Robert W. Eddy
+211,Moderna,Pharmaceuticals,Cambridge,Massachusetts,"3,900","$19,263","$59,232","$8,362",43.4,MRNA,Stephane Bancel
+212,DTE Energy,Utilities: Gas and Electric,Detroit,Michigan,"10,250","$19,228","$22,577","$1,083",5.6,DTE,Gerardo Norcia
+213,Land O'Lakes,Food Consumer Products,Arden Hills,Minnesota,"9,000","$19,226",,$241,1.3,,Beth E. Ford
+214,Kinder Morgan,Pipelines,Houston,Texas,"10,525","$19,200","$39,363","$2,548",13.3,KMI,Steven J. Kean
+215,Tenet Healthcare,Health Care: Medical Facilities,Dallas,Texas,"89,088","$19,174","$6,077",$411,2.1,THC,Saum Sutaria
+216,Devon Energy,"Mining, Crude-Oil Production",Oklahoma City,Oklahoma,"1,800","$19,169","$33,099","$6,015",31.4,DVN,Richard E. Muncrief
+217,Mosaic,Chemicals,Tampa,Florida,"13,570","$19,125","$15,438","$3,583",18.7,MOS,James C. O'Rourke
+218,Exelon,Utilities: Gas and Electric,Chicago,Illinois,"19,063","$19,078","$41,651","$2,170",11.4,EXC,Calvin G. Butler
+219,General Mills,Food Consumer Products,Minneapolis,Minnesota,"32,500","$18,993","$50,195","$2,707",14.3,GIS,Jeffrey L. Harmening
+220,Global Partners,Wholesalers: Diversified,Waltham,Massachusetts,"3,585","$18,878","$1,055",$362,1.9,GLP,Eric Slifka
+221,Western Digital,"Computers, Office Equipment",San Jose,California,"65,000","$18,793","$12,029","$1,500",8,WDC,David V. Goeckeler
+222,Lincoln National,"Insurance: Life, Health (Stock)",Radnor,Pennsylvania,"11,316","$18,766","$3,802","-$2,241",-11.9,LNC,Ellen G. Cooper
+223,Ross Stores,Specialty Retailers: Apparel,Dublin,California,"101,000","$18,696","$36,302","$1,512",8.1,ROST,Barbara Rentler
+224,Stryker,Medical Products and Equipment,Kalamazoo,Michigan,"51,000","$18,449","$108,228","$2,358",12.8,SYK,Kevin A. Lobo
+225,Kyndryl Holdings,Information Technology Services,New York,New York,"90,000","$18,317","$3,358","-$2,054",-11.2,KD,Martin J. Schroeter
+226,Kohl's,General Merchandisers,Menomonee Falls,Wisconsin,"66,500","$18,098","$2,607",-$19,-0.1,KSS,Tom Kingsbury
+227,Stanley Black & Decker,"Home Equipment, Furnishings",New Britain,Connecticut,"54,200","$18,004","$12,333","$1,063",5.9,SWK,Donald Allan
+228,Colgate-Palmolive,Household and Personal Products,New York,New York,"33,800","$17,967","$62,535","$1,785",9.9,CL,Noel R. Wallace
+229,BlackRock,Securities,New York,New York,"19,800","$17,873","$100,526","$5,178",29,BLK,
+230,Fiserv,Financial Data Services,Brookfield,Wisconsin,"41,000","$17,737","$70,997","$2,530",14.3,FISV,Frank J. Bisignano
+230,Estée Lauder,Household and Personal Products,New York,New York,"53,865","$17,737","$88,041","$2,390",13.5,EL,Fabrizio Freda
+232,PPG Industries,Chemicals,Pittsburgh,Pennsylvania,"52,000","$17,652","$31,439","$1,026",5.8,PPG,Timothy M. Knavish
+233,Adobe,Computer Software,San Jose,California,"29,239","$17,606","$176,769","$4,756",27,ADBE,Shantanu Narayen
+234,Block,Financial Data Services,San Francisco,California,"12,428","$17,532","$41,329",-$541,-3.1,SQ,Jack Dorsey
+235,Synchrony Financial,Diversified Financials,Stamford,Connecticut,"18,500","$17,526","$12,709","$3,016",17.2,SYF,Brian D. Doubles
+236,Principal Financial,"Insurance: Life, Health (Stock)",Des Moines,Iowa,"19,300","$17,492","$18,068","$4,812",27.5,PFG,
+237,Lumen Technologies,Telecommunications,Monroe,Louisiana,"29,000","$17,478","$2,654","-$1,548",-8.9,LUMN,Kathleen E. Johnson
+238,Corteva,Food Production,Indianapolis,Indiana,"21,000","$17,455","$42,977","$1,147",6.6,CTVA,Chuck Magro
+239,Andersons,Food Production,Maumee,Ohio,"2,244","$17,351","$1,396",$131,0.8,ANDE,Patrick E. Bowe
+240,Lam Research,Semiconductors and Other Electronic Components,Fremont,California,"17,700","$17,227","$71,532","$4,605",26.7,LRCX,Timothy M. Archer
+241,Edison International,Utilities: Gas and Electric,Rosemead,California,"13,110","$17,220","$27,010",$612,3.6,EIX,Pedro J. Pizarro
+242,Dominion Energy,Utilities: Gas and Electric,Richmond,Virginia,"17,200","$17,174","$46,699",$994,5.8,D,Robert M. Blue
+243,Booking Holdings,Internet Services and Retailing,Norwalk,Connecticut,"21,492","$17,090","$99,859","$3,058",17.9,BKNG,Glenn D. Fogel
+244,Quanta Services,Engineering & Construction,Houston,Texas,"47,300","$17,074","$23,996",$491,2.9,PWR,"Earl C. ""Duke"" Austin"
+245,Expeditors International of Washington,Transportation and Logistics,Seattle,Washington,"20,302","$17,071","$17,009","$1,357",8,EXPD,Jeff Musser
+246,L3Harris Technologies,Aerospace & Defense,Melbourne,Florida,"46,000","$17,062","$37,277","$1,062",6.2,LHX,
+247,Reliance Steel & Aluminum,Metals,Scottsdale,Arizona,"14,750","$17,025","$15,142","$1,840",10.8,RS,Karla R. Lewis
+248,Live Nation Entertainment,Entertainment,Beverly Hills,California,"20,550","$16,681","$16,211",$296,1.8,LYV,Michael Rapino
+249,DISH Network,Telecommunications,Englewood,Colorado,"14,200","$16,679","$4,956","$2,303",13.8,DISH,Erik Carlson
+250,DuPont,Chemicals,Wilmington,Delaware,"23,000","$16,549","$32,895","$5,868",35.5,DD,Edward D. Breen
+251,Automatic Data Processing,Diversified Outsourcing Services,Roseland,New Jersey,"60,000","$16,498","$92,247","$2,949",17.9,ADP,Maria Black
+252,Group 1 Automotive,"Automotive Retailing, Services",Houston,Texas,"15,491","$16,412","$3,194",$752,4.6,GPI,Daryl Kenningham
+253,Aramark,Diversified Outsourcing Services,Philadelphia,Pennsylvania,"273,875","$16,327","$9,326",$195,1.2,ARMK,John J. Zillmer
+254,Thor Industries,Motor Vehicles & Parts,Elkhart,Indiana,"32,000","$16,313","$4,262","$1,138",7,THO,
+255,DXC Technology,Information Technology Services,Ashburn,Virginia,"130,000","$16,265","$5,820",$718,4.4,DXC,
+256,Viatris,Pharmaceuticals,Canonsburg,Pennsylvania,"37,000","$16,263","$11,513","$2,079",12.8,VTRS,Scott A. Smith
+257,Reinsurance Group of America,"Insurance: Life, Health (Stock)",Chesterfield,Montana,"3,800","$16,258","$8,876",$623,3.8,RGA,
+258,AutoZone,Specialty Retailers: Other,Memphis,Tennessee,"90,720","$16,252","$45,224","$2,430",14.9,AZO,William C. Rhodes Iii
+259,PulteGroup,Homebuilders,Atlanta,Georgia,"6,524","$16,229","$13,073","$2,617",16.1,PHM,Ryan R. Marshall
+260,Illinois Tool Works,Industrial Machinery,Glenview,Illinois,"46,000","$15,932","$74,209","$3,034",19,ITW,Scott Santi
+261,Parker-Hannifin,Industrial Machinery,Cleveland,Ohio,"55,090","$15,862","$43,112","$1,316",8.3,PH,Jennifer A. Parmentier
+262,BorgWarner,Motor Vehicles & Parts,Auburn Hills,Michigan,"52,700","$15,801","$11,481",$944,6,BWA,Frederic B. Lissalde
+263,Westlake,Chemicals,Houston,Texas,"15,920","$15,794","$14,812","$2,247",14.2,WLK,Albert Yuan Chao
+264,Consolidated Edison,Utilities: Gas and Electric,New York,New York,"14,319","$15,670","$33,967","$1,660",10.6,ED,Timothy P. Cawley
+265,Gap,Specialty Retailers: Apparel,San Francisco,California,"95,000","$15,616","$3,693",-$202,-1.3,GPS,Bobby Martin
+266,Opendoor Technologies,Internet Services and Retailing,Tempe,Arizona,"2,570","$15,567","$1,131","-$1,353",-8.7,OPEN,Carrie Wheeler
+267,Nordstrom,General Merchandisers,Seattle,Washington,"60,000","$15,530","$2,606",$245,1.6,JWN,Erik B. Nordstrom
+268,Asbury Automotive Group,"Automotive Retailing, Services",Duluth,Georgia,"13,000","$15,434","$4,557",$997,6.5,ABG,David W. Hult
+269,Ball,"Packaging, Containers",Westminster,Colorado,"21,000","$15,349","$17,326",$719,4.7,BALL,Dan Fisher
+270,Kellogg,Food Consumer Products,Battle Creek,Michigan,"30,000","$15,315","$22,945",$960,6.3,K,Steven A. Cahillane
+271,Xcel Energy,Utilities: Gas and Electric,Minneapolis,Minnesota,"11,982","$15,310","$37,082","$1,736",11.3,XEL,Bob Frenzel
+272,W.W. Grainger,Wholesalers: Diversified,Lake Forest,Illinois,"24,500","$15,228","$34,622","$1,547",10.2,GWW,Donald G. Macpherson
+273,Discover Financial Services,Commercial Banks,Riverwoods,Illinois,"20,200","$15,202","$25,635","$4,392",28.9,DFS,Roger C. Hochschild
+274,Baxter International,Medical Products and Equipment,Deerfield,Illinois,"60,000","$15,113","$20,504","-$2,433",-16.1,BAX,Jose E Almeida
+275,Southwestern Energy,"Mining, Crude-Oil Production",Spring,Texas,"1,118","$15,002","$5,506","$1,849",12.3,SWN,Bill Way
+276,DCP Midstream,Pipelines,Denver,Colorado,"1,910","$14,993","$8,701","$1,052",7,DCP,
+277,Jacobs Solutions,Engineering & Construction,Dallas,Texas,"58,350","$14,923","$14,890",$644,4.3,J,Bob Pragada
+278,Laboratory Corp. of America,Health Care: Pharmacy and Other Services,Burlington,North Carolina,"75,200","$14,877","$20,304","$1,279",8.6,LH,Adam H. Schechter
+279,CSX,Railroads,Jacksonville,Florida,"22,542","$14,853","$61,330","$4,166",28,CSX,Joseph R. Hinrichs
+280,J.B. Hunt Transport Services,"Trucking, Truck Leasing",Lowell,Arkansas,"37,151","$14,814","$18,208",$969,6.5,JBHT,John N. Roberts Iii
+281,Guardian Life Ins. Co. of America,"Insurance: Life, Health (Mutual)",New York,New York,"8,025","$14,653",,$71,0.5,,Andrew J. Mcmahon
+282,Jackson Financial,"Insurance: Life, Health (Stock)",Lansing,Michigan,"3,435","$14,551","$3,078","$5,697",39.2,JXN,Laura L. Prieskorn
+283,Fidelity National Information Services,Financial Data Services,Jacksonville,Florida,"69,000","$14,528","$32,160","-$16,720",-115.1,FIS,Stephanie Ferris
+284,Berry Global Group,"Packaging, Containers",Evansville,Indiana,"46,000","$14,495","$7,151",$766,5.3,BERY,Thomas E. Salmon
+285,Sempra,Utilities: Gas and Electric,San Diego,California,"15,785","$14,439","$47,563","$2,138",14.8,SRE,
+286,IQVIA Holdings,Health Care: Pharmacy and Other Services,Durham,North Carolina,"86,000","$14,410","$37,022","$1,091",7.6,IQV,Ari Bousbib
+287,O'Reilly Automotive,Specialty Retailers: Other,Springfield,Montana,"79,679","$14,410","$52,269","$2,173",15.1,ORLY,Gregory D. Johnson
+288,Leidos Holdings,Information Technology Services,Reston,Virginia,"45,000","$14,396","$12,630",$685,4.8,LDOS,Thomas A. Bell
+289,Ameriprise Financial,Diversified Financials,Minneapolis,Minnesota,"13,500","$14,347","$32,228","$2,559",17.8,AMP,James M. Cracchiolo
+290,Omnicom Group,"Advertising, Marketing",New York,New York,"74,200","$14,289","$19,001","$1,317",9.2,OMC,John D. Wren
+291,Tractor Supply,Specialty Retailers: Other,Brentwood,Tennessee,"36,500","$14,205","$25,830","$1,089",7.7,TSCO,Harry A. Lawton Iii
+292,Corning,"Electronics, Electrical Equip.",Corning,New York,"57,500","$14,189","$29,890","$1,316",9.3,GLW,Wendell P. Weeks
+293,Ecolab,Chemicals,St. Paul,Minnesota,"47,000","$14,188","$47,121","$1,092",7.7,ECL,Christophe Beck
+294,Icahn Enterprises,Diversified Financials,Sunny Isles Beach,Florida,"20,041","$14,101","$18,283",-$183,-1.3,IEP,David Willetts
+295,Farmers Insurance Exchange,Insurance: Property and Casualty (Mutual),Woodland Hills,California,"11,344","$14,092",,-$314,-2.2,,Raul Vargas
+296,Keurig Dr Pepper,Beverages,Burlington,Massachusetts,"28,000","$14,057","$49,620","$1,436",10.2,KDP,Robert J. Gamgort
+297,Loews,Insurance: Property and Casualty (Stock),New York,New York,"12,050","$14,044","$13,395","$1,012",7.2,L,James S. Tisch
+298,Equitable Holdings,"Insurance: Life, Health (Stock)",New York,New York,"10,250","$14,017","$9,186","$1,785",12.7,EQH,Mark Pearson
+299,Sonic Automotive,"Automotive Retailing, Services",Charlotte,North Carolina,"10,300","$14,001","$1,930",$89,0.6,SAH,David Bruton Smith
+300,Fox,Entertainment,New York,New York,"10,600","$13,974","$17,551","$1,205",8.6,FOXA,Lachlan K. Murdoch
+301,American Family Insurance Group,Insurance: Property and Casualty (Stock),Madison,Wisconsin,"12,990","$13,814",,"-$1,904",-13.8,,Bill Westrate
+302,Entergy,Utilities: Gas and Electric,New Orleans,Louisiana,"11,707","$13,764","$22,851","$1,103",8,ETR,Andrew S. Marsh
+303,Fluor,Engineering & Construction,Irving,Texas,"39,576","$13,744","$4,392",$145,1.1,FLR,David E. Constable
+304,Vistra,Energy,Irving,Texas,"4,910","$13,728","$9,155","-$1,227",-8.9,VST,
+305,State Street,Commercial Banks,Boston,Massachusetts,"42,226","$13,692","$26,074","$2,774",20.3,STT,Ronald P. O'Hanley
+306,Otis Worldwide,Industrial Machinery,Farmington,Connecticut,"69,000","$13,685","$35,015","$1,253",9.2,OTIS,Judith F. Marks
+307,Peter Kiewit Sons',Engineering & Construction,Omaha,Nebraska,"25,700","$13,663",,$710,5.2,,Rick Lanoha
+308,Carvana,"Automotive Retailing, Services",Tempe,Arizona,"16,600","$13,604","$1,761","-$1,587",-11.7,CVNA,Ernest C. Garcia Iii
+309,Republic Services,Waste Management,Phoenix,Arizona,"40,000","$13,511","$42,763","$1,488",11,RSG,Jon Vander Ark
+310,AECOM,Engineering & Construction,Dallas,Texas,"50,000","$13,496","$11,716",$311,2.3,ACM,Troy Rudd
+311,Universal Health Services,Health Care: Medical Facilities,King of Prussia,Pennsylvania,"82,500","$13,399","$8,982",$676,5,UHS,Marc D. Miller
+312,Pacific Life,"Insurance: Life, Health (Stock)",Newport Beach,California,"3,950","$13,360",,$763,5.7,,Darryl Button
+313,VMware,Computer Software,Palo Alto,California,"38,300","$13,350","$53,496","$1,314",9.8,VMW,Raghu Raghuram
+314,Western & Southern Financial Group,"Insurance: Life, Health (Mutual)",Cincinnati,Ohio,"2,594","$13,156",,$309,2.4,,John F. Barrett
+315,MGM Resorts International,"Hotels, Casinos, Resorts",Las Vegas,Nevada,"66,000","$13,128","$16,564","$1,473",11.2,MGM,William J. Hornbuckle
+316,Casey's General Stores,Specialty Retailers: Other,Ankeny,Iowa,"31,466","$12,953","$8,066",$340,2.6,CASY,Darren Rebelez
+317,Crown Holdings,"Packaging, Containers",Tampa,Florida,"26,000","$12,943","$9,934",$727,5.6,CCK,Timothy J. Donahue
+318,Textron,Aerospace & Defense,Providence,Rhose Island,"34,000","$12,869","$14,385",$861,6.7,TXT,Scott C. Donnelly
+319,LKQ,Wholesalers: Diversified,Chicago,Illinois,"45,000","$12,794","$15,171","$1,149",9,LKQ,Dominick P. Zarcone
+320,Norfolk Southern,Railroads,Atlanta,Georgia,"19,300","$12,745","$48,257","$3,270",25.7,NSC,Alan H. Shaw
+321,Intuit,Computer Software,Mountain View,California,"21,850","$12,726","$125,076","$2,066",16.2,INTU,Sasan K. Goodarzi
+322,Air Products & Chemicals,Chemicals,Allentown,Pennsylvania,"20,805","$12,699","$63,784","$2,256",17.8,APD,Seifi Ghasemi
+323,Boston Scientific,Medical Products and Equipment,Marlborough,Massachusetts,"45,000","$12,682","$71,910",$698,5.5,BSX,Michael F. Mahoney
+324,AGCO,Construction and Farm Machinery,Duluth,Georgia,"25,600","$12,651","$10,119",$890,7,AGCO,Eric P. Hansotia
+325,Henry Schein,Wholesalers: Health Care,Melville,New York,"22,000","$12,647","$10,705",$538,4.3,HSIC,Stanley M. Bergman
+326,Amphenol,Network and Other Communications Equipment,Wallingford,Connecticut,"91,000","$12,623","$48,591","$1,902",15.1,APH,Adam Norwitt
+327,AES,Utilities: Gas and Electric,Arlington,Virginia,"9,100","$12,617","$16,110",-$546,-4.3,AES,Andres R. Gluski
+328,Mutual of Omaha Insurance,"Insurance: Life, Health (Mutual)",Omaha,Nebraska,"6,350","$12,531",,-$177,-1.4,,James T. Blackledge
+329,Ovintiv,"Mining, Crude-Oil Production",Denver,Colorado,"1,744","$12,464","$8,772","$3,637",29.2,OVV,Brendan M. Mccracken
+330,Hormel Foods,Food Consumer Products,Austin,Minnesota,"20,000","$12,459","$21,796","$1,000",8,HRL,Jim(James) Snee
+331,Alcoa,Metals,Pittsburgh,Pennsylvania,"13,100","$12,451","$7,591",-$123,-1,AA,Roy C. Harvey
+332,International Flavors & Fragrances,Chemicals,New York,New York,"24,600","$12,440","$23,456","-$1,871",-15,IFF,Frank Clyburn
+333,Jones Financial (Edward Jones),Securities,Des Peres,Montana,"52,000","$12,411",,"$1,404",11.3,,Penny Pennington
+334,Dick's Sporting Goods,Specialty Retailers: Other,Coraopolis,Pennsylvania,"35,800","$12,368","$12,148","$1,043",8.4,DKS,Lauren R. Hobart
+335,Eversource Energy,Utilities: Gas and Electric,Springfield,Massachusetts,"9,626","$12,289","$27,287","$1,405",11.4,ES,Joseph R. Nolan
+336,Wayfair,Internet Services and Retailing,Boston,Massachusetts,"15,745","$12,218","$3,796","-$1,331",-10.9,W,Niraj S. Shah
+337,Community Health Systems,Health Care: Medical Facilities,Franklin,Tennessee,"58,500","$12,211",$670,$46,0.4,CYH,Tim L. Hingten
+338,Ally Financial,Diversified Financials,Detroit,Michigan,"11,600","$12,199","$7,668","$1,714",14.1,ALLY,Jeffrey J. Brown
+339,Regeneron Pharmaceuticals,Pharmaceuticals,Tarrytown,New York,"11,851","$12,173","$89,830","$4,338",35.6,REGN,Leonard S. Schleifer
+340,Liberty Media,Entertainment,Englewood,Colorado,"7,283","$12,164","$9,130","$1,815",14.9,LSXMA,Gregory B. Maffei
+341,APA,"Mining, Crude-Oil Production",Houston,Texas,"2,273","$12,132","$11,213","$3,674",30.3,APA,John J. Christmann Iv
+342,Qurate Retail,Internet Services and Retailing,Englewood,Colorado,"24,683","$12,106",$406,"-$2,594",-21.4,QRTEA,David Rawlinson Ii
+343,FirstEnergy,Utilities: Gas and Electric,Akron,Ohio,"12,335","$12,053","$22,924",$406,3.4,FE,Brian X. Tierney
+344,Analog Devices,Semiconductors and Other Electronic Components,Wilmington,Massachusetts,"24,450","$12,014","$99,764","$2,749",22.9,ADI,Vincent T. Roche
+345,Ryder System,Transportation and Logistics,Miami,Florida,"48,300","$12,011","$4,147",$867,7.2,R,Robert E. Sanchez
+346,Avis Budget Group,"Automotive Retailing, Services",Parsippany,New Jersey,"21,500","$11,994","$7,689","$2,764",23,CAR,Joseph A. Ferraro
+347,Unum Group,"Insurance: Life, Health (Stock)",Chattanooga,Tennessee,"10,801","$11,991","$7,805","$1,314",11,UNM,Richard P. Mckenney
+348,Newmont,"Mining, Crude-Oil Production",Denver,Colorado,"14,600","$11,915","$38,947",-$429,-3.6,NEM,Thomas R. Palmer
+349,VF,Apparel,Denver,Colorado,"27,650","$11,842","$8,904","$1,387",11.7,VFC,Benno Dorer
+350,Chesapeake Energy,"Mining, Crude-Oil Production",Oklahoma City,Oklahoma,"1,200","$11,743","$10,244","$4,936",42,CHK,Nick Dell'Osso
+351,Mohawk Industries,"Home Equipment, Furnishings",Calhoun,Georgia,"40,900","$11,737","$6,368",$25,0.2,MHK,Jeffrey S. Lorberbaum
+352,Markel,Insurance: Property and Casualty (Stock),Glen Allen,Virginia,"20,900","$11,675","$17,094",-$214,-1.8,MKL,Thomas S. Gayner
+353,Expedia Group,Internet Services and Retailing,Seattle,Washington,"16,500","$11,667","$14,879",$352,3,EXPE,Peter M. Kern
+354,Caesars Entertainment,"Hotels, Casinos, Resorts",Reno,Nevada,"49,000","$11,647","$10,503",-$899,-7.7,CZR,Thomas R. Reeg
+355,United Rentals,Equipment Leasing,Stamford,Connecticut,"24,600","$11,642","$27,460","$2,105",18.1,URI,Matthew J. Flannery
+356,Apollo Global Management,Securities,New York,New York,"4,258","$11,627","$36,042","-$3,213",-27.6,APO,Marc Rowan
+357,DaVita,Health Care: Medical Facilities,Denver,Colorado,"70,000","$11,610","$7,332",$560,4.8,DVA,Javier J. Rodriguez
+358,Hess,"Mining, Crude-Oil Production",New York,New York,"1,623","$11,570","$40,520","$2,096",18.1,HES,John B. Hess
+359,Fidelity National Financial,Insurance: Property and Casualty (Stock),Jacksonville,Florida,"21,759","$11,556","$9,508","$1,136",9.8,FNF,Mike Nolan
+360,Conagra Brands,Food Consumer Products,Chicago,Illinois,"18,000","$11,536","$17,902",$888,7.7,CAG,Sean M. Connolly
+361,Univar Solutions,Wholesalers: Diversified,Downers Grove,Illinois,"9,746","$11,475","$5,521",$545,4.8,UNVR,David C. Jukes
+362,Auto-Owners Insurance,Insurance: Property and Casualty (Mutual),Lansing,Michigan,"6,733","$11,407",,-$55,-0.5,,Jamie Whisnant
+363,Raymond James Financial,Securities,St. Petersburg,Florida,"17,000","$11,308","$20,086","$1,509",13.3,RJF,Paul C. Reilly
+364,Seaboard,Food Production,Merriam,Kansas,"12,614","$11,243","$4,376",$580,5.2,SEB,Robert L. Steer
+365,CF Industries Holdings,Chemicals,Deerfield,Illinois,"2,659","$11,186","$14,206","$3,346",29.9,CF,Tony Will
+366,S&P Global,Financial Data Services,New York,New York,"39,950","$11,181","$113,066","$3,248",29,SPGI,Douglas L. Peterson
+367,W.R. Berkley,Insurance: Property and Casualty (Stock),Greenwich,Connecticut,"8,186","$11,167","$16,402","$1,381",12.4,WRB,Robert Berkley
+368,Advance Auto Parts,Specialty Retailers: Other,Raleigh,North Carolina,"53,500","$11,155","$7,208",$502,4.5,AAP,Thomas R. Greco
+369,EMCOR Group,Engineering & Construction,Norwalk,Connecticut,"35,500","$11,076","$7,754",$406,3.7,EME,
+370,Williams,Pipelines,Tulsa,Oklahoma,"5,043","$10,965","$36,394","$2,049",18.7,WMB,Alan S. Armstrong
+371,Interpublic Group,"Advertising, Marketing",New York,New York,"58,400","$10,928","$14,341",$938,8.6,IPG,Phillippe Krakowsky
+372,TravelCenters of America,Specialty Retailers: Other,Westlake,Ohio,"17,195","$10,845","$1,306",$164,1.5,TA,Jonathan M. Pertchik
+373,American Tower,Real Estate,Boston,Massachusetts,"6,391","$10,711","$95,150","$1,766",16.5,AMT,Thomas A. Bartlett
+374,Molson Coors Beverage,Beverages,Chicago,Illinois,"16,600","$10,701","$11,360",-$175,-1.6,TAP,Gavin D.K. Hattersley
+375,Huntington Ingalls Industries,Aerospace & Defense,Newport News,Virginia,"43,000","$10,676","$8,265",$579,5.4,HII,Christopher D. Kastner
+376,NVR,Homebuilders,Reston,Virginia,"6,550","$10,580","$18,096","$1,726",16.3,NVR,Eugene J. Bredow
+377,Eastman Chemical,Chemicals,Kingsport,Tennessee,"14,500","$10,580","$10,048",$793,7.5,EMN,
+378,Graybar Electric,Wholesalers: Diversified,St. Louis,Montana,"9,400","$10,534",,$453,4.3,,Kathleen M. Mazzarella
+379,Insight Enterprises,Information Technology Services,Chandler,Arizona,"13,448","$10,431","$4,833",$281,2.7,NSIT,Joyce Mullen
+380,Hershey,Food Consumer Products,Hershey,Pennsylvania,"18,970","$10,419","$51,909","$1,645",15.8,HSY,Michele G. Buck
+381,News Corp.,"Publishing, Printing",New York,New York,"25,500","$10,385","$9,972",$623,6,NWSA,Robert J. Thomson
+382,Toll Brothers,Homebuilders,Fort Washington,Pennsylvania,"5,200","$10,276","$6,647","$1,287",12.5,TOL,Douglas C. Yearley Jr.
+383,Ulta Beauty,Specialty Retailers: Other,Bolingbrook,Illinois,"35,750","$10,209","$27,390","$1,242",12.2,ULTA,David C. Kimbell
+384,Assurant,Insurance: Property and Casualty (Stock),Atlanta,Georgia,"13,700","$10,193","$6,354",$277,2.7,AIZ,Keith W. Demmings
+385,Weyerhaeuser,Forest and Paper Products,Seattle,Washington,"9,264","$10,184","$22,082","$1,880",18.5,WY,Devin W. Stockfish
+386,Biogen,Pharmaceuticals,Cambridge,Massachusetts,"8,725","$10,173","$40,171","$3,047",29.9,BIIB,Christopher A. Viehbacher
+387,Dana,Motor Vehicles & Parts,Maumee,Ohio,"41,800","$10,156","$2,172",-$242,-2.4,DAN,James K. Kamsickas
+388,UGI,Utilities: Gas and Electric,King of Prussia,Pennsylvania,"10,000","$10,106","$7,284","$1,073",10.6,UGI,Roger Perreault
+389,Chewy,Internet Services and Retailing,Plantation,Florida,"19,400","$10,099","$15,959",$49,0.5,CHWY,Sumit Singh
+390,Owens & Minor,Wholesalers: Health Care,Mechanicsville,Virginia,"22,500","$9,956","$1,109",$22,0.2,OMI,Edward A. Pesicka
+391,Quest Diagnostics,Health Care: Pharmacy and Other Services,Secaucus,New Jersey,"44,500","$9,883","$15,750",$946,9.6,DGX,James E. Davis
+392,Public Service Enterprise Group,Utilities: Gas and Electric,Newark,New Jersey,"12,525","$9,800","$31,148","$1,031",10.5,PEG,Ralph A. Larossa
+393,Ebay,Internet Services and Retailing,San Jose,California,"11,600","$9,795","$23,821","-$1,269",-13,EBAY,Jamie Iannone
+394,MasTec,Engineering & Construction,Coral Gables,Florida,"32,000","$9,778","$7,441",$33,0.3,MTZ,Jose R. Mas
+395,Owens Corning,"Building Materials, Glass",Toledo,Ohio,"19,000","$9,761","$8,697","$1,241",12.7,OC,Brian D. Chambers
+396,Celanese,Chemicals,Irving,Texas,"13,263","$9,673","$12,068","$1,894",19.6,CE,Lori J. Ryerkerk
+397,Altice USA,Telecommunications,Long Island City,New York,"11,000","$9,648","$1,560",$195,2,ATUS,Dennis Mathew
+398,Alaska Air Group,Airlines,Seattle,Washington,"24,196","$9,646","$5,348",$58,0.6,ALK,Benito Minicucci
+399,SpartanNash,Wholesalers: Food and Grocery,Byron Center,Michigan,"14,000","$9,643",$870,$35,0.4,SPTN,Tony Sarsam
+400,Diamondback Energy,"Mining, Crude-Oil Production",Midland,Texas,972,"$9,643","$24,816","$4,386",45.5,FANG,Travis D. Stice
+401,Intercontinental Exchange,Securities,Atlanta,Georgia,"8,911","$9,636","$58,372","$1,446",15,ICE,Jeffrey C. Sprecher
+402,Darden Restaurants,Food Services,Orlando,Florida,"178,956","$9,630","$18,884",$953,9.9,DRI,Rick Cardenas
+403,UFP Industries,"Building Materials, Glass",Grand Rapids,Michigan,"15,500","$9,627","$4,964",$693,7.2,UFPI,Matthew J. Missad
+404,WEC Energy Group,Utilities: Gas and Electric,Milwaukee,Wisconsin,"7,022","$9,597","$29,900","$1,408",14.7,WEC,Scott J. Lauber
+405,Yum China Holdings,Food Services,Plano,Texas,"275,500","$9,569","$26,517",$442,4.6,YUMC,Joey Wat
+406,EnLink Midstream,Pipelines,Dallas,Texas,"1,132","$9,542","$5,102",$361,3.8,ENLC,Jesse Arenivas
+407,Continental Resources,"Mining, Crude-Oil Production",Oklahoma City,Oklahoma,"1,404","$9,474",,"$4,025",42.5,,Robert D. Lawler
+408,Newell Brands,"Home Equipment, Furnishings",Atlanta,Georgia,"28,000","$9,459","$5,145",$197,2.1,NWL,Christopher H. Peterson
+409,Graphic Packaging Holding,"Packaging, Containers",Atlanta,Georgia,"24,000","$9,440","$7,829",$522,5.5,GPK,Michael Doss
+410,Olin,Chemicals,Clayton,Montana,"7,780","$9,376","$7,263","$1,327",14.2,OLN,Scott M. Sutton
+411,Fifth Third Bancorp,Commercial Banks,Cincinnati,Ohio,"19,319","$9,353","$18,143","$2,446",26.2,FITB,Tim Spence
+412,Thrivent Financial for Lutherans,"Insurance: Life, Health (Mutual)",Minneapolis,Minnesota,"3,692","$9,347",,"$1,085",11.6,,Teresa J. Rasmussen
+413,CenterPoint Energy,Utilities: Gas and Electric,Houston,Texas,"8,986","$9,321","$18,589","$1,057",11.3,CNP,David J. Lesar
+414,Erie Insurance Group,Insurance: Property and Casualty (Mutual),Erie,Pennsylvania,"5,997","$9,296",,-$577,-6.2,,Timothy G. Necastro
+415,CommScope Holding,Network and Other Communications Equipment,Hickory,North Carolina,"30,000","$9,228","$1,336","-$1,287",-13.9,COMM,Charles L. Treadway
+416,KLA,Semiconductors and Other Electronic Components,Milpitas,California,"14,140","$9,212","$55,277","$3,322",36.1,KLAC,Rick Wallace
+417,JetBlue Airways,Airlines,Long Island City,New York,"18,785","$9,158","$2,383",-$362,-4,JBLU,Robin Hayes
+418,Motorola Solutions,Network and Other Communications Equipment,Chicago,Illinois,"20,000","$9,112","$47,917","$1,363",15,MSI,Gregory Q. Brown
+419,Citizens Financial Group,Commercial Banks,Providence,Rhose Island,"18,889","$9,069","$14,709","$2,073",22.9,CFG,Bruce W. Van Saun
+420,Coterra Energy,"Mining, Crude-Oil Production",Houston,Texas,"1,225","$9,051","$18,786","$4,065",44.9,CTRA,Thomas E. Jorden
+421,Avery Dennison,"Packaging, Containers",Mentor,Ohio,"36,000","$9,039","$14,513",$757,8.4,AVY,Mitchell R. Butier
+422,PVH,Apparel,New York,New York,"25,000","$9,024","$5,592",$200,2.2,PVH,Stefan Larsson
+423,GXO Logistics,Transportation and Logistics,Greenwich,Connecticut,"112,000","$8,993","$5,993",$197,2.2,GXO,Malcolm Wilson
+424,Polaris,Transportation Equipment,Medina,Minnesota,"16,200","$8,987","$6,304",$447,5,PII,Michael T. Speetzen
+425,Global Payments,Financial Data Services,Atlanta,Georgia,"25,000","$8,976","$27,761",$112,1.2,GPN,Jeffrey S. Sloan
+426,Arconic,Metals,Pittsburgh,Pennsylvania,"11,550","$8,961","$2,607",-$182,-2,ARNC,Timothy D. Myers
+427,Vertex Pharmaceuticals,Pharmaceuticals,Boston,Massachusetts,"4,800","$8,931","$81,002","$3,322",37.2,VRTX,Reshma Kewalramani
+428,Commercial Metals,Metals,Irving,Texas,"12,483","$8,914","$5,727","$1,217",13.7,CMC,Barbara R. Smith
+429,Autoliv,Motor Vehicles & Parts,Auburn Hills,Michigan,"65,300","$8,842","$8,013",$423,4.8,ALV,Mikael Bratt
+430,Constellation Brands,Beverages,Victor,New York,"10,000","$8,821","$41,688",-$40,-0.5,STZ,Bill Newlands
+431,Hilton Worldwide Holdings,"Hotels, Casinos, Resorts",McLean,Virginia,"159,000","$8,773","$37,535","$1,255",14.3,HLT,Christopher J. Nassetta
+432,Foot Locker,Specialty Retailers: Apparel,New York,New York,"31,040","$8,759","$3,708",$342,3.9,FL,Mary N. Dillon
+433,Huntsman,Chemicals,The Woodlands,Texas,"7,000","$8,715","$5,025",$460,5.3,HUN,Peter R. Huntsman
+434,Burlington Stores,Specialty Retailers: Apparel,Burlington,New Jersey,"38,018","$8,703","$13,123",$230,2.6,BURL,Michael B. O’Sullivan
+435,Hertz Global Holdings,"Automotive Retailing, Services",Estero,Florida,"25,000","$8,685","$5,252","$2,059",23.7,HTZ,Stephen M. Scherr
+436,Masco,"Home Equipment, Furnishings",Livonia,Michigan,"19,000","$8,680","$11,207",$844,9.7,MAS,Keith J. Allman
+437,Williams-Sonoma,Specialty Retailers: Other,San Francisco,California,"16,800","$8,674","$8,057","$1,128",13,WSM,Laura J. Alber
+438,Chipotle Mexican Grill,Food Services,Newport Beach,California,"104,958","$8,635","$47,186",$899,10.4,CMG,Brian R. Niccol
+439,M&T Bank,Commercial Banks,Buffalo,New York,"22,509","$8,604","$20,093","$1,992",23.1,MTB,Rene F. Jones
+440,LPL Financial Holdings,Securities,San Diego,California,"6,415","$8,601","$15,914",$846,9.8,LPLA,Dan H. Arnold
+441,CMS Energy,Utilities: Gas and Electric,Jackson,Michigan,"8,817","$8,596","$17,902",$837,9.7,CMS,Garrick J. Rochow
+442,Campbell Soup,Food Consumer Products,Camden,New Jersey,"14,700","$8,562","$16,465",$757,8.8,CPB,Mark A. Clouse
+443,Arthur J. Gallagher,Diversified Financials,Rolling Meadows,Illinois,"43,640","$8,551","$40,955","$1,114",13,AJG,Patrick Gallagher
+444,Blackstone,Diversified Financials,New York,New York,"4,695","$8,518","$62,048","$1,748",20.5,BX,Stephen A. Schwarzman
+445,Dover,Industrial Machinery,Downers Grove,Illinois,"25,000","$8,508","$21,237","$1,065",12.5,DOV,Richard J. Tobin
+446,ODP,Specialty Retailers: Other,Boca Raton,Florida,"25,000","$8,491","$1,806",$166,2,ODP,Gerry P. Smith
+447,Packaging Corp. of America,"Packaging, Containers",Lake Forest,Illinois,"15,100","$8,478","$12,479","$1,030",12.1,PKG,Mark W. Kowlzan
+448,Brighthouse Financial,"Insurance: Life, Health (Stock)",Charlotte,North Carolina,"1,500","$8,473","$2,986",$5,0.1,BHF,
+449,Beacon Roofing Supply,Wholesalers: Diversified,Herndon,Virginia,"7,478","$8,430","$3,781",$458,5.4,BECN,Julian G. Francis
+450,Airbnb,Internet Services and Retailing,San Francisco,California,"6,811","$8,399","$79,682","$1,893",22.5,ABNB,Brian Chesky
+451,Boise Cascade,Wholesalers: Diversified,Boise,Idaho,"6,840","$8,387","$2,506",$858,10.2,BCC,
+452,Booz Allen Hamilton Holding,Information Technology Services,McLean,Virginia,"29,300","$8,364","$12,261",$467,5.6,BAH,Horacio D. Rozanski
+453,Westinghouse Air Brake Technologies,Industrial Machinery,Pittsburgh,Pennsylvania,"27,000","$8,362","$18,226",$633,7.6,WAB,Rafael O. Santana
+454,ON Semiconductor,Semiconductors and Other Electronic Components,Scottsdale,Arizona,"31,055","$8,326","$35,560","$1,902",22.8,ON,Hassane El-Khoury
+455,Oshkosh,Construction and Farm Machinery,Oshkosh,Wisconsin,"15,000","$8,282","$5,445",$174,2.1,OSK,John C. Pfeifer
+456,Franklin Resources,Securities,San Mateo,California,"9,800","$8,275","$13,480","$1,292",15.6,BEN,Jenny Johnson
+457,Taylor Morrison Home,Homebuilders,Scottsdale,Arizona,"3,000","$8,225","$4,144","$1,053",12.8,TMHC,Sheryl D. Palmer
+458,A-Mark Precious Metals,Wholesalers: Diversified,El Segundo,California,381,"$8,159",$815,$133,1.6,AMRK,Gregory N. Roberts
+459,KeyCorp,Commercial Banks,Cleveland,Ohio,"17,660","$8,130","$11,579","$1,917",23.6,KEY,Christopher M. Gorman
+460,ARKO,Specialty Retailers: Other,Richmond,Virginia,"12,223","$8,128","$1,020",$72,0.9,ARKO,Arie Kotler
+461,Lululemon athletica,Specialty Retailers: Apparel,Sumner,Washington,"34,000","$8,111","$46,312",$855,10.5,LULU,Calvin Mcdonald
+462,Old Republic International,Insurance: Property and Casualty (Stock),Chicago,Illinois,"9,500","$8,084","$7,399",$686,8.5,ORI,Craig R. Smiddy
+463,Zoetis,Pharmaceuticals,Parsippany,New Jersey,"13,800","$8,080","$77,053","$2,114",26.2,ZTS,Kristin C. Peck
+464,Marathon Oil,"Mining, Crude-Oil Production",Houston,Texas,"1,570","$8,036","$15,087","$3,612",44.9,MRO,Lee M. Tillman
+465,J.M. Smucker,Food Consumer Products,Orrville,Ohio,"6,700","$7,999","$16,781",$632,7.9,SJM,Mark T. Smucker
+466,Huntington Bancshares,Commercial Banks,Columbus,Ohio,"19,920","$7,950","$16,236","$2,238",28.2,HBAN,Stephen D. Steinour
+467,NGL Energy Partners,Pipelines,Tulsa,Oklahoma,842,"$7,948",$381,-$185,-2.3,NGL,Michael Krimbill
+468,Ingredion,Food Production,Westchester,Illinois,"11,700","$7,946","$6,711",$492,6.2,INGR,James (Jim) Zallie
+469,Fortune Brands Innovations,"Building Materials, Glass",Deerfield,Illinois,"11,200","$7,923","$7,457",$687,8.7,FBIN,Nicholas Fink
+470,PPL,Utilities: Gas and Electric,Allentown,Pennsylvania,"6,527","$7,902","$20,472",$756,9.6,PPL,Vincent Sorgi
+471,Sanmina,Semiconductors and Other Electronic Components,San Jose,California,"36,000","$7,891","$3,559",$256,3.2,SANM,Jure Sola
+472,Bed Bath & Beyond,Specialty Retailers: Other,Union,New Jersey,"32,000","$7,868",$183,-$560,-7.1,BBBY,Sue E. Gove
+473,Cintas,Diversified Outsourcing Services,Cincinnati,Ohio,"43,000","$7,855","$47,042","$1,236",15.7,CTAS,Todd M. Schneider
+474,NCR,"Computers, Office Equipment",Atlanta,Georgia,"35,000","$7,844","$3,304",$60,0.8,NCR,Michael Hayford
+475,ABM Industries,Diversified Outsourcing Services,New York,New York,"127,000","$7,807","$2,971",$230,3,ABM,Scott B. Salmirs
+476,Rockwell Automation,"Electronics, Electrical Equip.",Milwaukee,Wisconsin,"26,000","$7,760","$33,683",$932,12,ROK,Blake D. Moret
+477,Northern Trust,Commercial Banks,Chicago,Illinois,"23,600","$7,752","$18,309","$1,336",17.2,NTRS,Michael G. O'Grady
+478,XPO,Transportation and Logistics,Greenwich,Connecticut,"39,500","$7,718","$3,685",$666,8.6,XPO,Mario A. Harik
+479,Science Applications International,Information Technology Services,Reston,Virginia,"25,000","$7,704","$5,871",$300,3.9,SAIC,Nazzic S. Keene
+480,Ameren,Utilities: Gas and Electric,St. Louis,Missouri,"9,244","$7,662","$22,675","$1,074",14,AEE,Martin J. Lyons Jr.
+481,First American Financial,Insurance: Property and Casualty (Stock),Santa Ana,California,"21,153","$7,605","$5,750",$263,3.5,FAF,Kenneth D. Degiorgio
+482,Bath & Body Works,Specialty Retailers: Other,Columbus,Ohio,"33,000","$7,560","$8,368",$800,10.6,BBWI,Gina Boswell
+483,Regions Financial,Commercial Banks,Birmingham,Alabama,"20,073","$7,531","$17,346","$2,245",29.8,RF,John M. Turner Jr.
+484,Activision Blizzard,Entertainment,Santa Monica,California,"13,000","$7,528","$67,126","$1,513",20.1,ATVI,Bobby Kotick
+485,Avantor,"Scientific, Photographic and Control Equipment",Radnor,Pennsylvania,"14,500","$7,512","$14,271",$687,9.1,AVTR,Michael Stubblefield
+486,Genworth Financial,"Insurance: Life, Health (Stock)",Richmond,Virginia,"2,500","$7,507","$2,477",$609,8.1,GNW,Thomas J. Mcinerney
+487,EQT,Energy,Pittsburgh,Pennsylvania,744,"$7,498","$11,499","$1,771",23.6,EQT,Toby Z. Rice
+488,Skechers U.S.A.,Apparel,Manhattan Beach,California,"11,450","$7,445","$7,379",$373,5,SKX,Robert Greenberg
+489,Landstar System,"Trucking, Truck Leasing",Jacksonville,Florida,"1,449","$7,440","$6,457",$431,5.8,LSTR,James B. Gattoni
+490,Knight-Swift Transportation Holdings,"Trucking, Truck Leasing",Phoenix,Arizona,"28,300","$7,429","$9,106",$771,10.4,KNX,David A. Jackson
+491,SVB Financial Group,Commercial Banks,Santa Clara,California,"8,553","$7,401",$54,"$1,672",22.6,SIVBQ,William Kosturos
+492,Par Pacific Holdings,Petroleum Refining,Houston,Texas,"1,397","$7,322","$1,773",$364,5,PARR,William C. Pate
+493,Albemarle,Chemicals,Charlotte,North Carolina,"7,400","$7,320","$25,928","$2,690",36.7,ALB,Kent Masters
+494,Vulcan Materials,"Building Materials, Glass",Birmingham,Alabama,"11,974","$7,315","$22,827",$576,7.9,VMC,Thomas Hill
+495,Watsco,Wholesalers: Diversified,Miami,Florida,"7,238","$7,274","$12,354",$601,8.3,WSO,Albert H. Nahmad
+496,KKR,Securities,New York,New York,"4,150","$7,273","$45,225",-$841,-11.6,KKR,Joseph Y. Bae
+497,Equinix,Real Estate,Redwood City,California,"12,097","$7,263","$66,873",$704,9.7,EQIX,Charles Meyers
+498,Sonoco Products,"Packaging, Containers",Hartsville,South Carolina,"22,000","$7,251","$5,975",$466,6.4,SON,Howard Coker
+499,ServiceNow,Computer Software,Santa Clara,California,"20,433","$7,245","$94,338",$325,4.5,NOW,Bill Mcdermott
+500,Robert Half International,Temporary Help,Menlo Park,California,"16,300","$7,238","$8,677",$658,9.1,RHI,Keith Waddell

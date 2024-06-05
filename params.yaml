@@ -1,0 +1,13 @@
+page_config:
+  # Appears at the top of browser
+  page_title: "Fortune 500 Query Tool" 
+  # The page favicon. Besides the types supported by st.image (like URLs or numpy arrays), you can pass in an emoji as a string ("🦈") or a shortcode (":shark:").
+  page_icon: "🥶"
+  # For set_page_width fucntion
+  page_width: 95  
+  # Options: "expanded" , or "auto"
+  initial_sidebar_state: "collapsed"
+
+
+
+    
